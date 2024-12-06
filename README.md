@@ -1,2 +1,2 @@
-remote
+local
 # website-flow
